@@ -33,3 +33,8 @@
 - [Local Storage](https://medium.com/@siobhanpmahoney/local-storage-in-a-react-single-page-application-34ba30fc977d).
 - [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - [local-storage](https://www.npmjs.com/package/local-storage).
+
+## React SPA Routing
+
+- [react-router](https://reacttraining.com/react-router/web/guides/quick-start).
+- [Using React Router](https://www.taniarascia.com/using-react-router-spa/).
