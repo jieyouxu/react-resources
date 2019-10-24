@@ -24,9 +24,10 @@
 
 - [Babel](https://babeljs.io/docs/en/).
 
-## TypeScript for Static Type Checking
+## PropTypes
 
-- [Static Type Checking](https://reactjs.org/docs/static-type-checking.html).
+- [TypeChecking with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html).
+- [prop-types](https://www.npmjs.com/package/prop-types).
 
 ## Packaging, Minification, Bundling
 
@@ -42,3 +43,9 @@
 
 - [react-router](https://reacttraining.com/react-router/web/guides/quick-start).
 - [Using React Router](https://www.taniarascia.com/using-react-router-spa/).
+
+## Code Quality
+
+- [eslint](https://eslint.org/).
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react).
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks).
