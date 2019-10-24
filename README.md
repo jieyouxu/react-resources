@@ -2,6 +2,10 @@
 
 - [React](https://reactjs.org/).
 
+## React Hooks
+
+- [React Hooks API](https://reactjs.org/docs/hooks-intro.html).
+
 ## Accessibility
 
 - [React | Accessibility](https://reactjs.org/docs/accessibility.html).
