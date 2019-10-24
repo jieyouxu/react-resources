@@ -12,7 +12,6 @@
   - [react-i18next](https://github.com/i18next/react-i18next).
 
 ## UI State Management
-q
 - [Redux](https://redux.js.org/introduction/getting-started).
 - [react-redux](https://github.com/reduxjs/react-redux).
 
